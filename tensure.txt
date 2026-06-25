@@ -1,0 +1,4 @@
+cust, name, monthlycharges, tensure
+1,a,100,3
+2,b,150,2
+3,c,200,2

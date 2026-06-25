@@ -1,0 +1,2 @@
+Tenure_months='Table_name'[column_name]*12  
+total_chrages=sum('table_name'[column_name]*sum('table_name'[tenure_months])..
